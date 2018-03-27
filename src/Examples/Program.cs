@@ -6,7 +6,14 @@ namespace BitCoinSharp.Examples
 {
     public static class Program
     {
+
         public static void Main(string[] args)
+        {
+            NetworkParameters _params = NetworkParameters.TestNet();
+            //Transaction tx = new Transaction(_params,);
+        }
+
+        public static void Main2(string[] args)
         {
             //https://code.google.com/archive/p/bitcoinsharp/
             //hardcoding args

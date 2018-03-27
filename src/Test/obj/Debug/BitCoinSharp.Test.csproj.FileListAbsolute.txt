@@ -3,3 +3,8 @@ C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\bin\Debug\BitCoinSh
 C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\src\Test\obj\Debug\BitCoinSharp.Test.csprojResolveAssemblyReference.cache
 C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\src\Test\obj\Debug\BitCoinSharp.Test.dll
 C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\src\Test\obj\Debug\BitCoinSharp.Test.pdb
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\bin\Debug\BitCoinSharp.Test.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\bin\Debug\BitCoinSharp.Test.pdb
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\Test\obj\Debug\BitCoinSharp.Test.csprojResolveAssemblyReference.cache
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\Test\obj\Debug\BitCoinSharp.Test.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\Test\obj\Debug\BitCoinSharp.Test.pdb
