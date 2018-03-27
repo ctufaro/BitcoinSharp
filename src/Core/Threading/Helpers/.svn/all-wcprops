@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/src/Core/Threading/Helpers
+END
+FIFOWaitQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/src/Core/Threading/Helpers/FIFOWaitQueue.cs
+END
+IQueuedSync.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/src/Core/Threading/Helpers/IQueuedSync.cs
+END
+IWaitQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/src/Core/Threading/Helpers/IWaitQueue.cs
+END
+WaitNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/src/Core/Threading/Helpers/WaitNode.cs
+END

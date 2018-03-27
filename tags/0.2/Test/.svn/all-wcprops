@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/24/tags/0.2/Test
+END
+SeedPeersTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/24/tags/0.2/Test/SeedPeersTest.cs
+END
+BitcoinSerializerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/tags/0.2/Test/BitcoinSerializerTest.cs
+END
+ChainSplitTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/tags/0.2/Test/ChainSplitTests.cs
+END
+DiskBlockStoreTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/tags/0.2/Test/DiskBlockStoreTest.cs
+END
+AddressTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/24/tags/0.2/Test/AddressTest.cs
+END
+BoundedOverheadBlockStoreTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/24/tags/0.2/Test/BoundedOverheadBlockStoreTest.cs
+END
+Base58Test.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/24/tags/0.2/Test/Base58Test.cs
+END
+WalletTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/24/tags/0.2/Test/WalletTest.cs
+END
+BlockTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/tags/0.2/Test/BlockTest.cs
+END
+BlockChainTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24/tags/0.2/Test/BlockChainTest.cs
+END
+BitCoinSharp.Test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/tags/0.2/Test/BitCoinSharp.Test.csproj
+END
+UtilsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/tags/0.2/Test/UtilsTest.cs
+END
+EcKeyTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/tags/0.2/Test/EcKeyTest.cs
+END
+PeerAddressTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/tags/0.2/Test/PeerAddressTest.cs
+END
+VarIntTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/24/tags/0.2/Test/VarIntTest.cs
+END
+ScriptTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/24/tags/0.2/Test/ScriptTest.cs
+END
+IrcDiscoveryTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/tags/0.2/Test/IrcDiscoveryTest.cs
+END

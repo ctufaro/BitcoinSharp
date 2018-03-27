@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/59/src/Core/Store
+END
+MemoryBlockStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50/src/Core/Store/MemoryBlockStore.cs
+END
+IBlockStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/50/src/Core/Store/IBlockStore.cs
+END
+DiskBlockStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/src/Core/Store/DiskBlockStore.cs
+END
+BoundedOverheadBlockStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/59/src/Core/Store/BoundedOverheadBlockStore.cs
+END
+BlockStoreException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/src/Core/Store/BlockStoreException.cs
+END

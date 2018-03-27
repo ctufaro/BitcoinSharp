@@ -1,0 +1,5 @@
+C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\bin\Debug\BitCoinSharp.Examples.exe
+C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\bin\Debug\BitCoinSharp.Examples.pdb
+C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\src\Examples\obj\Debug\BitCoinSharp.Examples.csprojResolveAssemblyReference.cache
+C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\src\Examples\obj\Debug\BitCoinSharp.Examples.exe
+C:\Users\ctufaro_admin\Downloads\source-archive\bitcoinsharp\src\Examples\obj\Debug\BitCoinSharp.Examples.pdb

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/src/Core/Threading/Utility
+END
+Error.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/src/Core/Threading/Utility/Error.cs
+END
+SerializationUtilities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/src/Core/Threading/Utility/SerializationUtilities.cs
+END
+ComparisonComparer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/src/Core/Threading/Utility/ComparisonComparer.cs
+END
+WaitTime.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/src/Core/Threading/Utility/WaitTime.cs
+END

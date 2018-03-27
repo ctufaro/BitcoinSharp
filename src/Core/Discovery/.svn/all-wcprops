@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/51/src/Core/Discovery
+END
+DnsDiscovery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50/src/Core/Discovery/DnsDiscovery.cs
+END
+IPeerDiscovery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/50/src/Core/Discovery/IPeerDiscovery.cs
+END
+SeedPeers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/src/Core/Discovery/SeedPeers.cs
+END
+PeerDiscoveryException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/src/Core/Discovery/PeerDiscoveryException.cs
+END
+IrcDiscovery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50/src/Core/Discovery/IrcDiscovery.cs
+END

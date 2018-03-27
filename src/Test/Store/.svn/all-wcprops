@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/28/src/Test/Store
+END
+DiskBlockStoreTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/src/Test/Store/DiskBlockStoreTest.cs
+END
+BoundedOverheadBlockStoreTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/src/Test/Store/BoundedOverheadBlockStoreTest.cs
+END

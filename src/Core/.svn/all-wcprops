@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/60/src/Core
+END
+Script.cs
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/src/Core/Script.cs
+END
+TransactionInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/50/src/Core/TransactionInput.cs
+END
+BitCoinSharp.Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/48/src/Core/BitCoinSharp.Core.csproj
+END
+NetworkConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/src/Core/NetworkConnection.cs
+END
+InventoryItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/30/src/Core/InventoryItem.cs
+END
+AddressFormatException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/src/Core/AddressFormatException.cs
+END
+NetworkParameters.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/src/Core/NetworkParameters.cs
+END
+GetDataMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/50/src/Core/GetDataMessage.cs
+END
+VersionedChecksummedBytes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/58/src/Core/VersionedChecksummedBytes.cs
+END
+DumpedPrivateKey.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/src/Core/DumpedPrivateKey.cs
+END
+ScriptException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/src/Core/ScriptException.cs
+END
+Address.cs
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/50/src/Core/Address.cs
+END
+AbstractPeerEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/src/Core/AbstractPeerEventListener.cs
+END
+Wallet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/59/src/Core/Wallet.cs
+END
+Block.cs
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/56/src/Core/Block.cs
+END
+VersionMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/50/src/Core/VersionMessage.cs
+END
+Ping.cs
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/50/src/Core/Ping.cs
+END
+EcKey.cs
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/58/src/Core/EcKey.cs
+END
+Utils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/51/src/Core/Utils.cs
+END
+VerificationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/src/Core/VerificationException.cs
+END
+VarInt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/15/src/Core/VarInt.cs
+END
+VersionAck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/50/src/Core/VersionAck.cs
+END
+UnknownMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/50/src/Core/UnknownMessage.cs
+END
+TransactionOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/50/src/Core/TransactionOutput.cs
+END
+PeerGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/60/src/Core/PeerGroup.cs
+END
+PeerException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/src/Core/PeerException.cs
+END
+StoredBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/50/src/Core/StoredBlock.cs
+END
+Sha256Hash.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/56/src/Core/Sha256Hash.cs
+END
+IPeerEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/49/src/Core/IPeerEventListener.cs
+END
+DownloadListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/53/src/Core/DownloadListener.cs
+END
+ListMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/50/src/Core/ListMessage.cs
+END
+ProtocolException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/src/Core/ProtocolException.cs
+END
+BitcoinSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/50/src/Core/BitcoinSerializer.cs
+END
+GetBlocksMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/57/src/Core/GetBlocksMessage.cs
+END
+Message.cs
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/50/src/Core/Message.cs
+END
+Transaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/59/src/Core/Transaction.cs
+END
+Base58.cs
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/50/src/Core/Base58.cs
+END
+TransactionOutPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/50/src/Core/TransactionOutPoint.cs
+END
+AddressMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/50/src/Core/AddressMessage.cs
+END
+Peer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/57/src/Core/Peer.cs
+END
+BlockChain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/54/src/Core/BlockChain.cs
+END
+PeerAddress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/50/src/Core/PeerAddress.cs
+END
+InventoryMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/50/src/Core/InventoryMessage.cs
+END

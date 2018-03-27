@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/50/src/Core/Threading
+END
+CountDownLatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/src/Core/Threading/CountDownLatch.cs
+END
+IContextCarrierFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/src/Core/Threading/IContextCarrierFactory.cs
+END
+ICancellable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/src/Core/Threading/ICancellable.cs
+END
+Callable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/src/Core/Threading/Callable.cs
+END
+SynchronizedHashSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/src/Core/Threading/SynchronizedHashSet.cs
+END
+Void.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/src/Core/Threading/Void.cs
+END
+ContextCopyingRunnable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/src/Core/Threading/ContextCopyingRunnable.cs
+END
+SystemExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/src/Core/Threading/SystemExtensions.cs
+END
+IContextCarrier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/src/Core/Threading/IContextCarrier.cs
+END
+Runnable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/src/Core/Threading/Runnable.cs
+END
+IExecutor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/50/src/Core/Threading/IExecutor.cs
+END
+ICallable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/src/Core/Threading/ICallable.cs
+END
+IThreadFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/src/Core/Threading/IThreadFactory.cs
+END
+IContextCopyingTask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/src/Core/Threading/IContextCopyingTask.cs
+END
+IRunnable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/src/Core/Threading/IRunnable.cs
+END

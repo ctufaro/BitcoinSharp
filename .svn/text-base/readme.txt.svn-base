@@ -1,5 +1,3 @@
-# BitcoinSharp
-
 To get started, ensure you have the latest .net SDK installed and run "msbuild" from the src folder.
 
 Now ensure you're running a BitCoin node locally and run the example app:

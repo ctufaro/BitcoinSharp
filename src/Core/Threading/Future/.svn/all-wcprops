@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/50/src/Core/Threading/Future
+END
+IRunnableFuture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/src/Core/Threading/Future/IRunnableFuture.cs
+END
+FutureTask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/50/src/Core/Threading/Future/FutureTask.cs
+END
+IFuture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/50/src/Core/Threading/Future/IFuture.cs
+END

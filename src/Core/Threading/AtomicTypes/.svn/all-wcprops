@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/src/Core/Threading/AtomicTypes
+END
+AtomicInteger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/src/Core/Threading/AtomicTypes/AtomicInteger.cs
+END
+IAtomic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/src/Core/Threading/AtomicTypes/IAtomic.cs
+END

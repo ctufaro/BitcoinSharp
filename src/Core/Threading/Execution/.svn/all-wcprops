@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/50/src/Core/Threading/Execution
+END
+Executors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/src/Core/Threading/Execution/Executors.cs
+END
+ExecutionException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/src/Core/Threading/Execution/ExecutionException.cs
+END
+AbstractExecutorService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/50/src/Core/Threading/Execution/AbstractExecutorService.cs
+END
+ICompletionService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/src/Core/Threading/Execution/ICompletionService.cs
+END
+IExecutorService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/50/src/Core/Threading/Execution/IExecutorService.cs
+END
+IRecommendParallelism.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/46/src/Core/Threading/Execution/IRecommendParallelism.cs
+END
+RejectedExecutionException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/46/src/Core/Threading/Execution/RejectedExecutionException.cs
+END
+ExecutorCompletionService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/src/Core/Threading/Execution/ExecutorCompletionService.cs
+END
+CancellationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/46/src/Core/Threading/Execution/CancellationException.cs
+END
+IRejectedExecutionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/src/Core/Threading/Execution/IRejectedExecutionHandler.cs
+END
+ThreadPoolExecutor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/src/Core/Threading/Execution/ThreadPoolExecutor.cs
+END

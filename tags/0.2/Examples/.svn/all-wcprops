@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/24/tags/0.2/Examples
+END
+DumpWallet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24/tags/0.2/Examples/DumpWallet.cs
+END
+PingService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/tags/0.2/Examples/PingService.cs
+END
+PrivateKeys.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/tags/0.2/Examples/PrivateKeys.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/24/tags/0.2/Examples/Program.cs
+END
+RefreshWallet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/24/tags/0.2/Examples/RefreshWallet.cs
+END
+PrintPeers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24/tags/0.2/Examples/PrintPeers.cs
+END
+BitCoinSharp.Examples.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/24/tags/0.2/Examples/BitCoinSharp.Examples.csproj
+END
