@@ -89,8 +89,8 @@ namespace BitCoinSharp
             Bytes = msg;
             Cursor = Offset = offset;
             Parse();
-#if SELF_CHECK
-    // Useful to ensure serialize/deserialize are consistent with each other.
+            #if SELF_CHECK
+            // Useful to ensure serialize/deserialize are consistent with each other.
             if (GetType() != typeof (VersionMessage))
             {
                 var msgbytes = new byte[Cursor - offset];
@@ -101,7 +101,7 @@ namespace BitCoinSharp
                                         Utils.BytesToHexString(reserialized) + " vs " + Environment.NewLine +
                                         Utils.BytesToHexString(msgbytes));
             }
-#endif
+            #endif
             Bytes = null;
         }
 

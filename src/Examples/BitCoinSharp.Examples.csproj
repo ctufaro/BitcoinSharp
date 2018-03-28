@@ -48,6 +48,10 @@
       <Project>{82B20619-3469-4DB6-8D18-628B64842499}</Project>
       <Name>BitCoinSharp.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Test\BitCoinSharp.Test.csproj">
+      <Project>{1f699ca0-3353-488f-ba48-26d82b287f2d}</Project>
+      <Name>BitCoinSharp.Test</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DumpWallet.cs" />

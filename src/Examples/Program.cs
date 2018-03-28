@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using BitCoinSharp.Test;
 
 namespace BitCoinSharp.Examples
 {
@@ -10,7 +11,9 @@ namespace BitCoinSharp.Examples
         public static void Main(string[] args)
         {
             NetworkParameters _params = NetworkParameters.TestNet();
-            //Transaction tx = new Transaction(_params,);
+            var myKey = new EcKey();
+            byte[] toAddr = myKey.ToAddress(_params).Hash160;
+            var xx = TestUtils.CreateFakeTx(_params, 100, new Address(_params, toAddr));
         }
 
         public static void Main2(string[] args)
