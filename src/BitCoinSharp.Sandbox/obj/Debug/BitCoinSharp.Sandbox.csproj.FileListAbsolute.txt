@@ -1,0 +1,11 @@
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BitCoinSharp.Sandbox.exe.config
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BitCoinSharp.Sandbox.exe
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BitCoinSharp.Sandbox.pdb
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BitCoinSharp.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\log4net.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BitCoinSharp.pdb
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\log4net.xml
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\obj\Debug\BitCoinSharp.Sandbox.csprojResolveAssemblyReference.cache
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\obj\Debug\BitCoinSharp.Sandbox.exe
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\obj\Debug\BitCoinSharp.Sandbox.pdb

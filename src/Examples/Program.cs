@@ -10,17 +10,9 @@ namespace BitCoinSharp.Examples
 
         public static void Main(string[] args)
         {
-            NetworkParameters _params = NetworkParameters.TestNet();
-            var myKey = new EcKey();
-            byte[] toAddr = myKey.ToAddress(_params).Hash160;
-            var xx = TestUtils.CreateFakeTx(_params, 100, new Address(_params, toAddr));
-        }
-
-        public static void Main2(string[] args)
-        {
             //https://code.google.com/archive/p/bitcoinsharp/
             //hardcoding args
-            args = new string[] { "FetchBlock" };
+            //args = new string[] { "FetchBlock" };
 
             if (args == null || args.Length == 0)
             {
