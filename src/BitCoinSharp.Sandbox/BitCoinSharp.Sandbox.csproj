@@ -54,6 +54,10 @@
       <Project>{82b20619-3469-4db6-8d18-628b64842499}</Project>
       <Name>BitCoinSharp.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Test\BitCoinSharp.Test.csproj">
+      <Project>{1f699ca0-3353-488f-ba48-26d82b287f2d}</Project>
+      <Name>BitCoinSharp.Test</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

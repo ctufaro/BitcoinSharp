@@ -281,7 +281,7 @@ namespace BitCoinSharp
         /// Writes out the given byte buffer to the output stream with the correct opcode prefix
         /// </summary>
         /// <exception cref="IOException"/>
-        internal static void WriteBytes(Stream os, byte[] buf)
+        public static void WriteBytes(Stream os, byte[] buf)
         {
             if (buf.Length < OpPushData1)
             {
@@ -306,7 +306,7 @@ namespace BitCoinSharp
             }
         }
 
-        internal static byte[] CreateOutputScript(Address to)
+        public static byte[] CreateOutputScript(Address to)
         {
             using (var bits = new MemoryStream())
             {
@@ -323,7 +323,7 @@ namespace BitCoinSharp
         /// <summary>
         /// Create a script that sends coins directly to the given public key (eg in a coinbase transaction).
         /// </summary>
-        internal static byte[] CreateOutputScript(byte[] pubkey)
+        public static byte[] CreateOutputScript(byte[] pubkey)
         {
             // TODO: Do this by creating a Script *first* then having the script reassemble itself into bytes.
             using (var bits = new MemoryStream())
@@ -334,7 +334,7 @@ namespace BitCoinSharp
             }
         }
 
-        internal static byte[] CreateInputScript(byte[] signature, byte[] pubkey)
+        public static byte[] CreateInputScript(byte[] signature, byte[] pubkey)
         {
             // TODO: Do this by creating a Script *first* then having the script reassemble itself into bytes.
             using (var bits = new MemoryStream())

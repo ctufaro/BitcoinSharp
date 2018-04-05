@@ -20,3 +20,9 @@ C:\Users\Chris\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\log4n
 C:\Users\Chris\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\obj\Debug\BitCoinSharp.Sandbox.csprojResolveAssemblyReference.cache
 C:\Users\Chris\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\obj\Debug\BitCoinSharp.Sandbox.exe
 C:\Users\Chris\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\obj\Debug\BitCoinSharp.Sandbox.pdb
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BitCoinSharp.Test.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\nunit.framework.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\Moq.dll
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\BitCoinSharp.Test.pdb
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\nunit.framework.xml
+C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\BitCoinSharp.Sandbox\bin\Debug\Moq.xml
