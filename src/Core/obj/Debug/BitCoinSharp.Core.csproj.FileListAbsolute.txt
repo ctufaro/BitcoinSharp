@@ -10,6 +10,6 @@ C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\Core\obj\Debug\BitCoinSharp.
 C:\Users\ctufaro_admin\My Projects\BitcoinSharp\src\Core\obj\Debug\BitCoinSharp.pdb
 C:\Users\Chris\My Projects\BitcoinSharp\bin\Debug\BitCoinSharp.dll
 C:\Users\Chris\My Projects\BitcoinSharp\bin\Debug\BitCoinSharp.pdb
-C:\Users\Chris\My Projects\BitcoinSharp\src\Core\obj\Debug\BitCoinSharp.Core.csprojResolveAssemblyReference.cache
 C:\Users\Chris\My Projects\BitcoinSharp\src\Core\obj\Debug\BitCoinSharp.dll
 C:\Users\Chris\My Projects\BitcoinSharp\src\Core\obj\Debug\BitCoinSharp.pdb
+C:\Users\Chris\My Projects\BitcoinSharp\src\Core\obj\Debug\BitCoinSharp.Core.csprojResolveAssemblyReference.cache

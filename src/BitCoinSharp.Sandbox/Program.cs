@@ -10,13 +10,7 @@ namespace BitCoinSharp.Sandbox
     {
         static void Main(string[] args)
         {
-            NetworkParameters par = new NetworkParameters();            
-            EcKey key = new EcKey();
-            byte[] pBytes = new byte[1];
-            int a = 7;
-            pBytes[0] = (byte)a;
-            Transaction t = new Transaction(par, pBytes, 1);
-            Console.ReadLine();
+            NetworkParameters prod = NetworkParameters.ProdNet();
         }
     }
 }

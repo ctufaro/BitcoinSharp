@@ -45,7 +45,7 @@ namespace BitCoinSharp
         // This is an in memory helper only.
         [NonSerialized] private Sha256Hash _hash;
 
-        internal Transaction(NetworkParameters @params)
+        public Transaction(NetworkParameters @params)
             : base(@params)
         {
             _version = 1;
