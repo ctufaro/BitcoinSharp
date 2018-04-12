@@ -12,7 +12,7 @@ namespace BitCoinSharp.Examples
         {
             //https://code.google.com/archive/p/bitcoinsharp/
             //hardcoding args
-            //args = new string[] { "FetchBlock" };
+            args = new string[] { "RefreshWallet" };
 
             if (args == null || args.Length == 0)
             {

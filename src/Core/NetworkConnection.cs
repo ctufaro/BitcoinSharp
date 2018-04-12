@@ -51,7 +51,8 @@ namespace BitCoinSharp
         }
 
         /// <summary>
-        /// Connect to the given IP address using the port specified as part of the network parameters. Once construction
+        /// Connect to the giv
+        /// en IP address using the port specified as part of the network parameters. Once construction
         /// is complete a functioning network channel is set up and running.
         /// </summary>
         /// <param name="peerAddress">IP address to connect to. IPv6 is not currently supported by BitCoin. If port is not positive the default port from params is used.</param>
